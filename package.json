@@ -2,5 +2,6 @@
   "author": "foobar",
   "description": "A project that does something awesome",
   "keywords": [ "descriptive", "related", "words" ],
-  "license": "BDCOE"
+  "license": "BDCOE",
+  "version": "1.0"
 }
