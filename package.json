@@ -1,5 +1,6 @@
 { 
   "author": "foobar",
   "description": "A project that does something awesome",
-  "keywords": [ "descriptive", "related", "words" ]
+  "keywords": [ "descriptive", "related", "words" ],
+  "license": "BDCOE"
 }
